@@ -1,0 +1,95 @@
+
+.inpu{
+  width: 55%;
+
+  border: none ;
+  font-size:larger;
+  font-weight: 400;
+  padding: 0.5em;
+  text-align: center;
+  color: darkgrey;
+  margin: 2em 0 2.5em 0;
+}
+.ad{
+  background-color: cornflowerblue;
+  border: none ;
+  font-size:larger;
+  font-weight: 400;
+  padding: 0.5em;
+  text-align: center;
+  text-transform:capitalize;
+  color: rgb(14, 15, 14);
+  margin: 2em 0 2.5em 0;
+}
+
+h1{
+  text-align: center;
+  background-color: rgb(243, 244, 245);
+   
+}
+
+p{
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  padding: 1rem;
+  
+}
+.tod{
+  width: 80%;
+
+  border: none ;
+  font-size:larger;
+  font-weight: 400;
+  padding: 0.5em;
+  text-align: center;
+  
+  color: rgb(208, 207, 207);
+  margin: 2em 0 2em 1em;
+}
+
+.free{
+  background-color: rgb(206, 236, 243);
+  width: calc( 100% / 3 - 10px);
+ 
+  
+  margin: 3rem  1rem  0 6rem;
+  float: left;
+  flex-wrap: nowrap
+}
+/* .row::after {
+  content: "";
+  clear: both;
+  display: table;
+} */
+.btn{
+  background-color: rgb(135, 218, 222);
+  color:green;
+  border: none ;
+  font-size:larger;
+  padding: 0.5em  1em 0.5em 1em ;
+  text-align: center;
+  
+}
+
+.btnn{
+  border: none;
+  padding: 0 0.5em 0.04em 0.5em ;
+  float: right;
+  background-color: rgb(61, 206, 220);
+  color: rgb(4, 85, 90);
+}
+.check{
+  margin: 1.3rem;
+ 
+  float: left;
+}
+.btnns{
+  padding: 0 0.5em ;
+  float: right;
+  color: rgb(4, 10, 90);
+  font-size: x-large;
+
+}
+
+
+

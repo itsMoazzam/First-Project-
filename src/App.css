@@ -1,0 +1,67 @@
+.sec{
+  background-color: blueviolet;
+  text-align: center;
+
+}
+body{
+  width: 100%;
+}
+
+
+
+.fre{
+  margin: 4px;
+  
+}
+.next{
+  padding-bottom: 1.5rem;
+}
+
+
+
+button:hover{
+  color:red;
+  background-color: blueviolet;
+}
+span:hover{
+  color:red;
+}
+.btn:hover{
+  color:red;
+  background-color: blueviolet;
+}
+h1:hover{
+  background-color: blueviolet;
+
+}
+p:hover{
+  background-color: blueviolet;
+
+}
+@media only screen and (max-width: 990px) {
+  .inpu {
+    width: 45%;
+    margin: 1rem 0 0 0;
+  }
+  .ad{
+    margin: 1rem;
+  }
+  .free{
+    margin: 0;
+    width: 70%;
+margin: 3rem  0 0 7.5rem; 
+   }
+}
+@media only screen and (max-width: 670px) {
+  .inpu {
+    width: 95%;
+    margin: 1rem 0 0 0;
+  }
+  .ad{
+    margin: 1rem;
+  }
+  .free{
+    margin: 0;
+    width: 100%;
+  }
+}
