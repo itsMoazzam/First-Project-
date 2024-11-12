@@ -1,0 +1,91 @@
+*{
+  margin: auto;
+}
+
+
+.front{
+  text-align: center;
+
+
+}
+.top:hover{
+  background-color:  rgb(207, 207, 221);
+    color: rgb(183, 46, 201);
+}
+.top{
+  border: none;
+  font-size: medium;
+  width: 25rem;
+  padding: 11px;
+  text-align: center;
+ color: rgb(0, 38, 255);
+  background-color: rgb(243, 238, 243);
+}
+.bt{
+  font-size: medium;
+
+  padding: 11px;
+  color: blue;
+  background-color: rgb(243, 238, 243);
+    border: none;
+ 
+}
+
+.bt:hover{
+  background-color: blue;
+  color: white;
+}
+
+
+.card{
+  box-shadow: rgba(0.9, 0.9, 0.9, 0.1) 2px 2px 4px 5px;
+  padding: 8px;
+  margin: 2rem;
+  
+  border-radius: 13px;
+  flex: 0 1 24%;
+}
+
+.card-body{
+  display: flex;
+  margin: 5px;
+  padding: 15px;
+  
+}
+.card:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 25px;
+  border-radius: 23px;
+
+}
+
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+
+
+.card-body:hover{
+  background-color: blue;
+  color: white;
+
+}
+
+
+  
+
+
+  .mui{
+   
+    float: right;
+   
+  }
+
+
+
+
+
+
+
